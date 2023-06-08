@@ -1,2 +1,2 @@
 # BOEI17
-Just testing
+Just testing how GIT works
